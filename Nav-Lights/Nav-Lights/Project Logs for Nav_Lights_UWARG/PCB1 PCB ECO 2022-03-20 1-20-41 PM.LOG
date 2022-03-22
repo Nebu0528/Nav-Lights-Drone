@@ -1,0 +1,57 @@
+Change Component Designator: OldDesignator= NewDesignator=5V
+Change Component Designator: OldDesignator= NewDesignator=L1
+Change Component Designator: OldDesignator= NewDesignator=L2
+Change Component Designator: OldDesignator= NewDesignator=L3
+Change Component Designator: OldDesignator= NewDesignator=L4
+Change Component Designator: OldDesignator= NewDesignator=L5
+Change Component Designator: OldDesignator= NewDesignator=L6
+Added Component: Designator=*(GND)
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=NetL1_+ Pin=R1-1
+Added Net: Name=NetL1_+
+Added Pin To Net: NetName=NetL2_+ Pin=R2-1
+Added Net: Name=NetL2_+
+Added Pin To Net: NetName=NetL3_+ Pin=R3-1
+Added Net: Name=NetL3_+
+Added Pin To Net: NetName=NetL4_+ Pin=R4-1
+Added Net: Name=NetL4_+
+Added Pin To Net: NetName=NetL5_+ Pin=R5-1
+Added Net: Name=NetL5_+
+Added Pin To Net: NetName=NetL6_+ Pin=R6-1
+Added Net: Name=NetL6_+
+Added Pin To Net: NetName=NetL7_+ Pin=R7-1
+Added Net: Name=NetL7_+
+Added Pin To Net: NetName=NetL8_+ Pin=R8-1
+Added Net: Name=NetL8_+
+Added Pin To Net: NetName=NetL9_+ Pin=R9-1
+Added Net: Name=NetL9_+
+Added Pin To Net: NetName=NetL10_+ Pin=R10-1
+Added Net: Name=NetL10_+
+Added Pin To Net: NetName=NetL11_+ Pin=R11-1
+Added Net: Name=NetL11_+
+Added Pin To Net: NetName=NetL12_+ Pin=R12-1
+Added Net: Name=NetL12_+
+Added Pin To Net: NetName=NetL13_+ Pin=R13-1
+Added Net: Name=NetL13_+
+Added Pin To Net: NetName=NetL14_+ Pin=R14-1
+Added Net: Name=NetL14_+
+Added Pin To Net: NetName=NetL15_+ Pin=R15-1
+Added Net: Name=NetL15_+
+Added Pin To Net: NetName=NetL16_+ Pin=R16-1
+Added Net: Name=NetL16_+
+Added Pin To Net: NetName=NetL17_+ Pin=R17-1
+Added Net: Name=NetL17_+
+Added Pin To Net: NetName=NetL18_+ Pin=R18-1
+Added Net: Name=NetL18_+
+Added Pin To Net: NetName=NetL19_+ Pin=R19-1
+Added Net: Name=NetL19_+
+Added Pin To Net: NetName=NetL20_+ Pin=R20-1
+Added Net: Name=NetL20_+
+Added Member To Class: ClassName=NavLightsSchem Member=Component * GND
+Added Member To Class: ClassName=NavLightsSchem Member=Component 5V Voltage Source
+Added Member To Class: ClassName=NavLightsSchem Member=Component L1 LED
+Added Member To Class: ClassName=NavLightsSchem Member=Component L3 LED
+Added Member To Class: ClassName=NavLightsSchem Member=Component L4 LED
+Added Member To Class: ClassName=NavLightsSchem Member=Component L5 LED
+Added Member To Class: ClassName=NavLightsSchem Member=Component L6 LED
+Added Room: Name=NavLightsSchem

@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=NavLightsSchem Member=*
+Add Pin To Net: Unknown Pin: Pin L1-+
+Add Pin To Net: Unknown Pin: Pin L2-+
+Add Pin To Net: Unknown Pin: Pin L3-+
+Add Pin To Net: Unknown Pin: Pin L4-+
+Add Pin To Net: Unknown Pin: Pin L5-+
+Add Pin To Net: Unknown Pin: Pin L6-+
+Add Pin To Net: Unknown Pin: Pin L7-+
+Add Pin To Net: Unknown Pin: Pin L8-+
+Added Net: Name=GND
